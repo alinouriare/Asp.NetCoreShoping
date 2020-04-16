@@ -1,0 +1,9 @@
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Entities\bin\Debug\netstandard2.0\Shoping.Domain.Entities.deps.json
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Entities\bin\Debug\netstandard2.0\Shoping.Domain.Entities.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Entities\bin\Debug\netstandard2.0\Shoping.Domain.Entities.pdb
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Entities\obj\Debug\netstandard2.0\Shoping.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Entities\obj\Debug\netstandard2.0\Shoping.Domain.Entities.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Entities\obj\Debug\netstandard2.0\Shoping.Domain.Entities.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Entities\obj\Debug\netstandard2.0\Shoping.Domain.Entities.pdb
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Entities\obj\Debug\netstandard2.0\Shoping.Domain.Entities.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Entities\obj\Debug\netstandard2.0\Shoping.Domain.Entities.csproj.CoreCompileInputs.cache

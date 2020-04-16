@@ -1,0 +1,14 @@
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\bin\Debug\netstandard2.0\Shoping.DAL.Fake.deps.json
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\bin\Debug\netstandard2.0\Shoping.DAL.Fake.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\bin\Debug\netstandard2.0\Shoping.DAL.Fake.pdb
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\bin\Debug\netstandard2.0\Shoping.Domain.Contract.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\bin\Debug\netstandard2.0\Shoping.Domain.Entities.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\bin\Debug\netstandard2.0\Shoping.Domain.Contract.pdb
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\bin\Debug\netstandard2.0\Shoping.Domain.Entities.pdb
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\obj\Debug\netstandard2.0\Shoping.DAL.Fake.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\obj\Debug\netstandard2.0\Shoping.DAL.Fake.csproj.CoreCompileInputs.cache
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\obj\Debug\netstandard2.0\Shoping.DAL.Fake.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\obj\Debug\netstandard2.0\Shoping.DAL.Fake.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\obj\Debug\netstandard2.0\Shoping.DAL.Fake.csproj.CopyComplete
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\obj\Debug\netstandard2.0\Shoping.DAL.Fake.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.Fake\obj\Debug\netstandard2.0\Shoping.DAL.Fake.pdb

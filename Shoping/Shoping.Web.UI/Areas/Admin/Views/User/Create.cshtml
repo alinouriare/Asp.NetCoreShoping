@@ -1,0 +1,142 @@
+﻿@model CreateUser
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<head>
+
+    <link href="~/select2/css/select2.min.css" rel="stylesheet" />
+
+</head>
+<style>
+    .circleInput {
+        border-radius: 3px;
+    }
+</style>
+<div class="row center-block box box-primary" style="box-shadow:2px 2px 7px 3px gray;">
+
+
+
+    <div class="col-md-4 col-md-offset-2" style="margin-bottom:15px; margin-top:15px;">
+        <form asp-area="Admin" asp-controller="User" asp-action="Create" method="post" enctype="multipart/form-data">
+
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+            @* نام *@
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control circleInput" placeholder="نام را وارد نمایید" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+
+            @* نام خانوادگی *@
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control circleInput" placeholder="نام خاانوادگی را وارد نمایید" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+
+            @* ایمیل *@
+            <div class="form-group circleInput">
+                <label asp-for="Email" class="control-label"></label>
+                <div class="input-group">
+                    <div class="input-group-addon">
+                        <i class="fa fa-inbox"></i>
+                    </div>
+                    <input asp-for="Email" class="form-control" placeholder="ایمیل را وارد نمایید" />
+                </div>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+
+            @* موبایل *@
+            <div class="form-group">
+                <label asp-for="PhoneNumber" class="control-label"></label>
+                <div class="input-group">
+                    <div class="input-group-addon">
+                        <i class="fa fa-phone"></i>
+                    </div>
+                    <input asp-for="PhoneNumber" class="form-control circleInput" placeholder="شماره تماس را وارد نمایید" />
+                </div>
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+
+
+
+
+
+
+
+
+            @* نام کاربری  *@
+            <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control circleInput" placeholder="نام کاربری را وارد نمایید" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+
+            @* رمز عبور *@
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control circleInput" placeholder="رمز عبور را به صورت قوی وارد نمایید" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+
+            @* تکرار رمز عبور *@
+            <div class="form-group">
+                <label asp-for="ConfirmPassword" class="control-label"></label>
+                <input asp-for="ConfirmPassword" class="form-control circleInput" placeholder="تکرار رمز عبور را وارد نمایید" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label  class="control-label"> نقش کاربر</label>
+                <select class="select2-ajax form-control" name="idrole" multiple="multiple">
+                </select>
+
+
+            </div>
+
+
+
+
+
+            <div class="form-group">
+                <input type="submit" value="ایجاد" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-danger">بازگشت</a>
+            </div>
+
+
+
+        </form>
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+@section PanelScripts{
+
+
+    <script src="~/jquery/jquery.min.js"></script>
+    <script src="~/select2/js/select2.min.js"></script>
+    <script src="~/js/select2.js"></script>
+}

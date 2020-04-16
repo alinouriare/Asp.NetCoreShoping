@@ -1,0 +1,14 @@
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\bin\Debug\netstandard2.0\Shoping.DAL.EF.deps.json
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\bin\Debug\netstandard2.0\Shoping.DAL.EF.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\obj\Debug\netstandard2.0\Shoping.DAL.EF.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\obj\Debug\netstandard2.0\Shoping.DAL.EF.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\obj\Debug\netstandard2.0\Shoping.DAL.EF.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\bin\Debug\netstandard2.0\Shoping.DAL.EF.pdb
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\bin\Debug\netstandard2.0\Shoping.Domain.Entities.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\bin\Debug\netstandard2.0\Shoping.Domain.Entities.pdb
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\obj\Debug\netstandard2.0\Shoping.DAL.EF.csproj.CopyComplete
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\obj\Debug\netstandard2.0\Shoping.DAL.EF.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\obj\Debug\netstandard2.0\Shoping.DAL.EF.pdb
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\obj\Debug\netstandard2.0\Shoping.DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\bin\Debug\netstandard2.0\Shoping.Domain.Contract.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.DAL.EF\bin\Debug\netstandard2.0\Shoping.Domain.Contract.pdb

@@ -1,0 +1,12 @@
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\bin\Debug\netstandard2.0\Shoping.Domain.Contract.deps.json
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\bin\Debug\netstandard2.0\Shoping.Domain.Contract.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\bin\Debug\netstandard2.0\Shoping.Domain.Contract.pdb
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\bin\Debug\netstandard2.0\Shoping.Domain.Entities.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\bin\Debug\netstandard2.0\Shoping.Domain.Entities.pdb
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\obj\Debug\netstandard2.0\Shoping.Domain.Contract.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\obj\Debug\netstandard2.0\Shoping.Domain.Contract.csproj.CoreCompileInputs.cache
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\obj\Debug\netstandard2.0\Shoping.Domain.Contract.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\obj\Debug\netstandard2.0\Shoping.Domain.Contract.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\obj\Debug\netstandard2.0\Shoping.Domain.Contract.csproj.CopyComplete
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\obj\Debug\netstandard2.0\Shoping.Domain.Contract.dll
+C:\Users\AliNouri\Desktop\Shoping\Shoping\Shoping.Domain.Contract\obj\Debug\netstandard2.0\Shoping.Domain.Contract.pdb
